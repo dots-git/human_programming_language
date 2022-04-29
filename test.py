@@ -1,4 +1,8 @@
-def to_tuple(a):
-    return (*a,)
+def to_scientific_notation(number):
+    """
+    Converts a number to scientific notation.
+    """
+    return f"{number:.2e}"
 
-print(to_tuple([1, 2, 3, 4]))
+
+print(to_scientific_notation(101425323))

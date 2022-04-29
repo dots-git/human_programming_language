@@ -1,3 +1,12 @@
+# this was the initial idea for the language.
+# this example program cannot currently be
+# run with the human interpreter.
+# the differences are that the 'store' function
+# does not exist anymore and that you cannot
+# currently end statements with periods.
+# other than that this would be fully functional
+# with the current interpreter.
+
 Add up some a and some b means:
     Store a.
     Add b.

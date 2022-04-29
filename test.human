@@ -1,0 +1,61 @@
+# this is a basic example of the human
+# programming language. 
+# this particular line is a comment.
+
+
+f of some x means:
+    Add up x and one
+    # "result" is a variable that is always
+    # the result of the last expression.
+    # expressions like "print" return their
+    # input value.
+    Multiply the result by 3
+    Subtract the result from two
+
+g of some x means:
+
+    # you can use functions in other functions,
+    # even if they are defined later (example here: negative x)
+    Multiply negative x by three
+    Subtract one from the result
+
+negative some number means:
+    Subtract the number from zero
+
+minus some number means:
+    Subtract the number from zero
+
+print out f of two
+print out f of three
+print out f of four
+
+
+print out g of two
+print out g of three
+print out g of four
+
+# statements in single or double quotes 
+# will not be evaluated
+
+print 'g of five' to the console
+print "g of six"
+
+# to print single or double quotes, surround them 
+# with the other quote type
+
+print '"'
+print "'"
+
+
+# you can compare objects
+compare some a and some b means:
+    if a is less than b:
+        print "a is less than b"
+    else:
+        print "a is not less than b"
+
+compare one and 2
+compare 5 and three
+
+
+
